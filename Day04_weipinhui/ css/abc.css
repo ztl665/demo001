@@ -2,7 +2,7 @@
 *{
 	margin: 0px;
 	background-color:aliceblue;
-	align-self: center;
+	
 }
 #div1{
 	width: 100%;
@@ -14,6 +14,7 @@
 	width: 100%;
 	display: flex;
 	flex-wrap: wrap;
+	align-items: center;
 }
 #div2>img{
 	width: 20%;
@@ -22,6 +23,7 @@
 	width: 100%;
 	display: flex;
 	flex-wrap: wrap;
+	align-items: center;
 }
 #div3>img{
 	width: 33%;
@@ -34,6 +36,7 @@
 	background: url(../img/21.png);
 	background-repeat: no-repeat;
 	background-size: 100%;
+	align-items: center;
 }
 #div4>img{
 	margin-top: 65px;
@@ -43,6 +46,7 @@
 	width: 100%;
 	display: flex;
 	justify-content: space-around;
+	align-items: center;
 }
 #div4>div>img{
 	width: 20%;
@@ -54,6 +58,7 @@
 	width: 100%;
 	display: flex;
 	justify-content: space-around;
+	align-items: center;
 }
 #div4>div>div{
 	width: 33#;
@@ -79,6 +84,7 @@
 	background: url(../img/121.png);
 	background-repeat: no-repeat;
 	background-size: 100%;
+	align-items: center;
 }
 #div5>img{
 	width: 21%;
@@ -90,6 +96,7 @@
 	width: 100%;
 	display: flex;
 	justify-content: space-around;
+	align-items: center;
 }
 #div5>div>span{
 	color: deeppink;
